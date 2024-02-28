@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Me chamo Giovanna, sou estudande de Engenharia de Software e sou uma dev FrontEnd 😊</h2>
+<h2 align="left">Olá 👋! Me chamo Giovanna, sou estudande de Engenharia de Software e sou uma dev FullStack 😊</h2>
 
 ###
 
