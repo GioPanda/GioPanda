@@ -14,6 +14,8 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=java&theme=light" height="30" alt="java logo"  />  
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
